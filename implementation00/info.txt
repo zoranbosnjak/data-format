@@ -1,0 +1,24 @@
+Hi Zoran.
+
+I've added a file to your gist.
+
+It's compilable code, and:
+
+- explores mostly the static interface,
+- allows the dynamic interface as a special case of the static one
+  (using existential, see the "lift" functions),
+- demonstrates use of accessors.
+
+I'm not claiming this is the only or even the right way to do things,
+but perhaps based on this, you can let me know what of the things you
+want to do you can now do, and what other things you still do not
+know how to do.
+
+The parsing uses Megaparsec. That's not the only choice, but a sensible
+one. I don't think my code has any other non-trivial package
+dependencies, but if you have trouble building it, I can provide a
+full package.
+
+Best,
+Andres
+
