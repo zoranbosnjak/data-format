@@ -1,0 +1,1 @@
+[("A",StrFixed 2),("B",StrVariable),("C",Nested [("D",StrFixed 1),("E",StrVariable)])]

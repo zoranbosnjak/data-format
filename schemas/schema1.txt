@@ -1,0 +1,1 @@
+[("A",StrFixed 3),("B",StrFixed 4),("C",StrVariable)]
